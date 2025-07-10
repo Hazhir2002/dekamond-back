@@ -145,8 +145,4 @@ Send daily business data for analysis.
 - Ensure CORS is enabled in `app.py` if you're connecting to a frontend on a different port (e.g., React on `localhost:3000`).
 - Data must include both `today` and `yesterday` fields with valid `revenue`, `cost`, and `customers` values.
 
----
 
-## 📄 License
-
-MIT License (or specify your license here)
